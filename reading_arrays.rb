@@ -8,15 +8,15 @@ STUDENT_NAMES = [
 ]
 
 def first_student_by_index
-  STUDEN_NAMES[0]
+  STUDENT_NAMES[0]
 end
 
 def fourth_student_by_index
-  student_names[3]
+  STUDENT_NAMES[3]
 end
 
 def last_student_by_index
- student_names[5]
+STUDENT_NAMES[5]
 end
 
 def first_student_by_method
